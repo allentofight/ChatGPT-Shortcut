@@ -35,9 +35,9 @@ AiShort bietet eine prägnante und benutzerfreundliche Liste von KI-Anweisungen.
 
 🗳️ **Community-Abstimmungssystem**: Ähnlich wie Product Hunt oder Reddit, wird die Plattform von der Community betrieben. Die besten Prompts werden auf die Startseite geschoben.
 
-📦 **Sofort einsatzbereit**: Besuchen Sie einfach <https://www.aishort.top/de/> um zu starten.
+📦 **Sofort einsatzbereit**: Besuchen Sie einfach <https://prompt.nextaibots.com/de/> um zu starten.
 
-Die Quelle der AiShort-Prompts umfasst Internet-Auswahl, Community-Teilungen und [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Wir werden regelmäßig aktualisieren, um Ihnen neue Prompts und Inspirationen zu bieten. Um zu verstehen, wie AiShort verwendet wird, lesen Sie bitte das [Benutzerhandbuch](https://www.aishort.top/de/docs/guides/getting-started).
+Die Quelle der AiShort-Prompts umfasst Internet-Auswahl, Community-Teilungen und [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Wir werden regelmäßig aktualisieren, um Ihnen neue Prompts und Inspirationen zu bieten. Um zu verstehen, wie AiShort verwendet wird, lesen Sie bitte das [Benutzerhandbuch](https://prompt.nextaibots.com/de/docs/guides/getting-started).
 
 Willkommen in unserer Discord-Community, um Ideen auszutauschen und Feedback zu geben.
 

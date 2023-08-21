@@ -35,9 +35,9 @@ AiShort provides a concise and easy-to-use list of AI instructions. Even without
 
 🗳️ **Community voting system**: Similar to Product Hunt or Reddit, the platform is community-driven. The best prompts will be pushed to the homepage.
 
-📦 **Ready to use**: Just visit <https://www.aishort.top/en/> to start using.
+📦 **Ready to use**: Just visit <https://prompt.nextaibots.com/en/> to start using.
 
-The source of AiShort prompts includes internet selections, community shares, and [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). We will regularly update to provide you with new prompts and inspiration. To understand how to use AiShort, please refer to [user manual](https://www.aishort.top/en/docs/guides/getting-started).
+The source of AiShort prompts includes internet selections, community shares, and [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). We will regularly update to provide you with new prompts and inspiration. To understand how to use AiShort, please refer to [user manual](https://prompt.nextaibots.com/en/docs/guides/getting-started).
 
 Welcome to join our Discord community to exchange ideas and feedback.
 

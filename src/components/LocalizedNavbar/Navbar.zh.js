@@ -39,7 +39,7 @@ const zhNavbar = {
       ],
     },
     {
-      to: "https://www.aishort.top/feedback",
+      to: "https://prompt.nextaibots.com/feedback",
       label: "反馈",
       position: "left",
     },

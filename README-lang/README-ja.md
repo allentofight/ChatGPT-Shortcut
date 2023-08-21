@@ -35,9 +35,9 @@ AiShort は、簡潔で使いやすい AI 指示のリストを提供します�
 
 🗳️ **コミュニティ投票システム**: Product Hunt や Reddit のように、プラットフォームはコミュニティ駆動型です。最高のプロンプトはホームページに推されます。
 
-📦 **すぐに使用可能**: <https://www.aishort.top/ja/>を訪問してすぐに使用を開始します。
+📦 **すぐに使用可能**: <https://prompt.nextaibots.com/ja/>を訪問してすぐに使用を開始します。
 
-AiShort のプロンプトの源は、インターネットの選択、コミュニティの共有、そして[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)によるものです。私たちは定期的に更新を行い、新しいプロンプトとインスピレーションを提供します。AiShort の使い方を理解するために、[ユーザーマニュアル](https://www.aishort.top/ja/docs/guides/getting-started)を参照してください。
+AiShort のプロンプトの源は、インターネットの選択、コミュニティの共有、そして[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)によるものです。私たちは定期的に更新を行い、新しいプロンプトとインスピレーションを提供します。AiShort の使い方を理解するために、[ユーザーマニュアル](https://prompt.nextaibots.com/ja/docs/guides/getting-started)を参照してください。
 
 アイデアとフィードバックを交換するために、私たちの Discord コミュニティに参加することを歓迎します。
 
