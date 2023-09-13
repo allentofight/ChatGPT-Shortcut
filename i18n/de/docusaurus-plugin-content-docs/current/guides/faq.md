@@ -22,6 +22,6 @@ Obwohl ChatGPT sehr leistungsfähig ist, ist es nicht unfehlbar. Manchmal kann e
 
 ## Vorgeschlagene Wörter funktionieren nicht gut
 
-Alle vorgeschlagenen Wörter stammen aus dem Internet und werden regelmäßig aktualisiert. Obwohl ich jedes vorgeschlagene Wort getestet habe, kann die tatsächliche Leistung je nach spezifischen Anforderungen abweichen. Wenn Sie Fehler entdecken, kreative Ideen haben oder gute vorgeschlagene Wörter besitzen, können Sie gerne Feedback geben und auf der [GitHub-Seite](https://github.com/rockbenben/ChatGPT-Shortcut/discussions/11) beitragen.
+Alle vorgeschlagenen Wörter stammen aus dem Internet und werden regelmäßig aktualisiert. Obwohl ich jedes vorgeschlagene Wort getestet habe, kann die tatsächliche Leistung je nach spezifischen Anforderungen abweichen. Wenn Sie Fehler entdecken, kreative Ideen haben oder gute vorgeschlagene Wörter besitzen, können Sie gerne Feedback geben und auf der [GitHub-Seite](https://github.com/allentofight/ChatGPT-Shortcut/discussions/11) beitragen.
 
 Wenn Sie Informationen zusammenfassen oder kondensieren, können Sie GPT verwenden, um die Originalantworten weiter zu verfeinern und so die Genauigkeit der Antworten zu erhöhen. Darüber hinaus dienen vorgeschlagene Wörter nicht nur zur Steigerung der Produktivität, sondern helfen auch, Ihr Denken zu erweitern, Kreativität anzuregen, Probleme aus verschiedenen Perspektiven zu betrachten und Probleme zu lösen, die im Denkprozess leicht übersehen werden können.

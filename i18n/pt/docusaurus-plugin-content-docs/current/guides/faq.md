@@ -22,6 +22,6 @@ Embora o ChatGPT seja muito poderoso, ele não é infalível. Às vezes, pode fo
 
 ## Sugestões não funcionando bem
 
-Todas as palavras sugeridas são obtidas da internet e são atualizadas regularmente. Embora eu tenha testado cada palavra sugerida, o desempenho real pode variar dependendo dos requisitos específicos. Se você descobrir algum erro, tiver ideias criativas ou possuir boas palavras sugeridas, sinta-se à vontade para fornecer feedback e contribuir na [página do GitHub](https://github.com/rockbenben/ChatGPT-Shortcut/discussions/11).
+Todas as palavras sugeridas são obtidas da internet e são atualizadas regularmente. Embora eu tenha testado cada palavra sugerida, o desempenho real pode variar dependendo dos requisitos específicos. Se você descobrir algum erro, tiver ideias criativas ou possuir boas palavras sugeridas, sinta-se à vontade para fornecer feedback e contribuir na [página do GitHub](https://github.com/allentofight/ChatGPT-Shortcut/discussions/11).
 
 Se você estiver resumindo ou condensando informações, pode usar o GPT para refinar ainda mais as respostas originais, aumentando assim a precisão das respostas. Além disso, as palavras sugeridas não servem apenas para fins de produtividade, mas também ajudam a ampliar o pensamento, estimular a criatividade, considerar problemas a partir de múltiplas perspectivas e resolver questões que são facilmente negligenciadas durante o processo de pensamento."

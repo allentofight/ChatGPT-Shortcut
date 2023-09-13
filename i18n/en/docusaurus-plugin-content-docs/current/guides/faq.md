@@ -22,6 +22,6 @@ Although ChatGPT is very powerful, it is not infallible. Sometimes it may output
 
 ## Suggested words not working well
 
-All the suggested words are sourced from the Internet and are regularly updated. Although I have tested each suggested word, the actual performance may deviate depending on the specific requirements. If you discover any errors, have creative ideas, or possess good suggested words, please feel free to provide feedback and contribute on the [GitHub page](https://github.com/rockbenben/ChatGPT-Shortcut/discussions/11).
+All the suggested words are sourced from the Internet and are regularly updated. Although I have tested each suggested word, the actual performance may deviate depending on the specific requirements. If you discover any errors, have creative ideas, or possess good suggested words, please feel free to provide feedback and contribute on the [GitHub page](https://github.com/allentofight/ChatGPT-Shortcut/discussions/11).
 
 If you are summarizing or condensing information, you can use GPT to further refine the original responses, thereby enhancing the accuracy of the answers. Moreover, suggested words not only serve for productivity purposes but also help broaden your thinking, stimulate creativity, consider problems from multiple perspectives, and solve issues that are easily overlooked during the thinking process.
