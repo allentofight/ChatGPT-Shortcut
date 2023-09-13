@@ -19,7 +19,7 @@ const enNavbar = {
     },
     { type: "localeDropdown", position: "right" },
     {
-      href: "https://github.com/rockbenben/ChatGPT-Shortcut",
+      href: "https://github.com/allentofight/ChatGPT-Shortcut",
       position: "right",
       className: "header-github-link",
     },

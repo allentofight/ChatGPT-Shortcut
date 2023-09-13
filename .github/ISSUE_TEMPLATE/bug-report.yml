@@ -11,7 +11,7 @@ body:
       label: Checklist
       description: Make sure that you follow these statements.
       options:
-        - label: I have searched [issues](https://github.com/rockbenben/ChatGPT-Shortcut/issues?q=)
+        - label: I have searched [issues](https://github.com/allentofight/ChatGPT-Shortcut/issues?q=)
           required: true
 
   - type: markdown
