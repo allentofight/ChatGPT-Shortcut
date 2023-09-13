@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import Cookies from "js-cookie";
+import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import Link from "@docusaurus/Link";
 import { Form, Input, Button, message, Modal, Typography, Switch } from "antd";
 import LoginComponent from "./login";
@@ -16,8 +16,9 @@ const UserStatus = ({ hideLinks = { userCenter: false, myFavorite: false } }) =>
   // 这里的 handleLogout 可能需要调用一个注销 API，然后在返回成功后清除 userAuth
   const handleLogout = async (event) => {
     event.preventDefault();
-    Cookies.remove("auth_token");
-    Cookies.remove("username");
+    if (ExecutionEnvironment.canUseDOM) {
+      localStorage.removeItem("auth_token");
+    }
     setUserAuth(null);
     window.location.reload();
   };
@@ -29,7 +30,7 @@ const UserStatus = ({ hideLinks = { userCenter: false, myFavorite: false } }) =>
       await refreshUserAuth();
       //window.location.reload();
       message.success(<Translate id='message.success'>词条提交成功！</Translate>);
-      message.success(<Translate id='message.success1'>点击标签「你的提示词」查看已添加的自定义提示词。</Translate>);
+      message.success(<Translate id='message.success1'>点击标签「我的提示词」查看已添加的自定义提示词。</Translate>);
       setOpen(false);
     } catch (err) {
       console.error(err);
@@ -64,7 +65,7 @@ const UserStatus = ({ hideLinks = { userCenter: false, myFavorite: false } }) =>
         <Modal
           title={translate({
             id: "modal.addprompt.title",
-            message: "分享 Prompt（本内容将出现在「你的提示词」标签中）",
+            message: "分享 Prompt（本内容将出现在「我的提示词」标签中）",
           })}
           open={open}
           footer={null}
